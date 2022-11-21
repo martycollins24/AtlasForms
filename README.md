@@ -12,7 +12,7 @@ It differs from a 4GL in having no proprietery coding language - it si instead a
 
 ## Installation
 
-Change xxxab to your own appid throught this repo and import.
+Change fxgep to your own appid throught this repo and import.
 
 ## Known BUGS to fix
 - Needs a Delete Button
